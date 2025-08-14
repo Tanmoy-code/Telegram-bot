@@ -21,3 +21,6 @@ export BOT_TOKEN="your-telegram-bot-token"
 
 4. Run the bot:
 python bot.py
+
+
+using AI
