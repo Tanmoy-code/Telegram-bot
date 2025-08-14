@@ -24,7 +24,7 @@ async def handle_message(update: Update, context: ContextTypes.DEFAULT_TYPE):
 
 # Main function
 def main():
-    bot_token = "7690573519:AAHCKoRYuM5xOaIevXFLmj1pyNxSrQ__Q64"
+    bot_token = "enter your token name"
     app = ApplicationBuilder().token(bot_token).build()
 
     app.add_handler(CommandHandler("start", start))
